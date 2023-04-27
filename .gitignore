@@ -99,14 +99,3 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
-
-##############################
-## FRAMEWORK CONQUISTA
-##############################
-/test-output
-/src/test/java/br/com/cyber/conquista/frameworkConquista/execute/runners
-
-##############################
-## DEBUG
-##############################
-/src/test/java/br/com/cyber/conquista/frameworkConquista/pages/clientes/PrevidenciaPrivada/PrevidenciaTemporario.java
