@@ -11,10 +11,10 @@
         <protocol>http</protocol>
 
         <!-- title of the document -->
-        <documentTitle>Framework Automacao Hub</documentTitle>
+        <documentTitle>Framework Automacao Web</documentTitle>
 
         <!-- report name - displayed at top-nav -->
-        <reportName>Framework Automacao Hub</reportName>
+        <reportName>Framework Automacao Web</reportName>
 
         <!-- global date format override -->  <!-- defaults to yyyy-MM-dd -->
         <dateFormat>dd-MM-yyyy</dateFormat>
